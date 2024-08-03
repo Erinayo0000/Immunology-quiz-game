@@ -21,7 +21,7 @@ const quizQuestions = [
     },
     {
         question: "Which of the following is an example of a physical barrier in the immune system?",
-        options: ["White blood cells", "Stomach acid", " Skin", "Antibodies"],
+        options: ["White blood cells", "Stomach acid", "Skin", "Antibodies"],
         correctAnswer: "Skin"
     },
     {
